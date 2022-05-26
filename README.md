@@ -1,8 +1,9 @@
 # 嵌入式学习资源整合包（1.0.0）
 
 > 这是我整理的嵌入式学习资源整合包，文中提到的教程大都是我已经看完或看完部分的，非常系统且具有代表性。遇到不懂的或者想学的知识都可以跟学习资源整合中提到的教程进行学习。
->
-> 喜欢的话不妨点个小行星！
+> 
+> https://github.com/MXuanZero/Embedded-learning-resource-integration-package
+> 本篇文章持续更新，喜欢的话不妨点个小星星！
 
 ### 电路
 
@@ -90,7 +91,7 @@
 
 #### 安卓（java）
 
-Android 并没有很多优秀的教程，值得推荐的只有[【天哥】Android开发视频教程最新版 Android Studio开发](https://www.bilibili.com/video/BV1Rt411e76H)。但不错的书籍却有不少，比如：《第一行代码》第三版、《疯狂安卓讲义》第四版。
+Android 并没有很多优秀的视频教程，值得推荐的只有[【天哥】Android开发视频教程最新版 Android Studio开发](https://www.bilibili.com/video/BV1Rt411e76H)。但不错的书籍却有不少，比如：《第一行代码》第三版、《疯狂安卓讲义》第四版。
 
 ### 人工智能
 
